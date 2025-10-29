@@ -1,5 +1,57 @@
-title: Mon Portfolio
-description: Site généré à partir de notes Obsidian avec IA
+title: Homelab Documentation Portfolio
+description: Technical documentation for my homelab infrastructure - Bilingual (EN/FR)
 theme: minima
+author: Omar LYAHYAI
+email: omar@example.com
+baseurl: ""
+url: "https://yourdomain.com"
+
+# Collections for organized documentation
+collections:
+  english_docs:
+    output: true
+    permalink: /docs/en/:name/
+  french_docs:
+    output: true
+    permalink: /docs/fr/:name/
+
+# Enable plugins
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+# Markdown processor
+markdown: kramdown
+highlighter: rouge
+
+# Exclude from processing
+exclude:
+  - .github
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - _backup_original
+  - .obsidian
+
+# Defaults for markdown files
+defaults:
+  - scope:
+      path: ""
+      type: english_docs
+    values:
+      layout: "doc"
+      lang: "en"
+  - scope:
+      path: ""
+      type: french_docs
+    values:
+      layout: "doc"
+      lang: "fr"
+
+# Permalink structure
+permalink: /blog/:year/:month/:day/:title/
+
+# Site settings
+sass:
+  sass_dir: _sass
+  style: compressed
