@@ -1,0 +1,18 @@
+{
+  "total_files_found": 24,
+  "files_moved": 24,
+  "files_skipped": 0,
+  "errors": [],
+  "directories_removed": [],
+  "categories": {
+    "automation_ai": 4,
+    "docker_services": 3,
+    "infrastructure": 5,
+    "job_search": 1,
+    "misc": 1,
+    "network_security": 4,
+    "reference": 4,
+    "remote_access": 2
+  },
+  "timestamp": "2025-10-29T14:39:30.635694"
+}
