@@ -1,0 +1,20 @@
+title: Homelab Documentation Portfolio
+description: Technical documentation for my homelab infrastructure - Bilingual (EN/FR)
+theme: minima
+author: Omar LYAHYAI
+email: omar@example.com
+baseurl: ""
+url: "https://olyahyai.github.io"
+
+# Collections for organized documentation
+collections:
+  english_docs:
+    output: true
+    permalink: /docs/en/:name/
+  french_docs:
+    output: true
+    permalink: /docs/fr/:name/
+
+# Enable plugins
+plugins:
+  - jekyll-feed
