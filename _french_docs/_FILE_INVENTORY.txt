@@ -1,0 +1,58 @@
+================================================================================
+ENGLISH HOMELAB DOCUMENTATION - COMPLETE FILE INVENTORY
+================================================================================
+
+Generated: 2025-10-29 14:39:30
+Total Files: 24
+================================================================================
+
+
+AUTOMATION AI (4 files)
+--------------------------------------------------------------------------------
+ 1. MCP Configuration Guide: YAML Setup and Configuration.md
+ 2. My AI Companion: Deploying the Modular Copilot Platform (MCP) Server.md
+ 3. My AI-Powered Workflow: Integration of MCP, Docker and N8N for Obsidian.md
+ 4. The Quest for Fluid Notes: My Obsidian LiveSync Configuration and Triumphs.md
+
+DOCKER SERVICES (3 files)
+--------------------------------------------------------------------------------
+ 1. Docker Compose Chronicles: Overcoming Image Download Challenges.md
+ 2. My Docker Symphony: Orchestrating Services in My Homelab.md
+ 3. Taming Docker Compose: Resolving Undefined Volume Errors.md
+
+INFRASTRUCTURE (5 files)
+--------------------------------------------------------------------------------
+ 1. Building a Secure Lab: Kali Linux and pfSense Deployment.md
+ 2. Building the Homelab Foundation: Proxmox VE Installation and Initial Configuration.md
+ 3. Growing Pains: Extending the Disk of My Ubuntu VM on Proxmox.md
+ 4. My AI and Kali Adventures: LLM Testing and Proxmox Debugging.md
+ 5. My Network Rescue: Getting Proxmox and pfSense Back Online.md
+
+JOB SEARCH (1 files)
+--------------------------------------------------------------------------------
+ 1. A Blank Canvas: Space for Future Adventures.md
+ 2. Navigating the Moroccan Job Market: Key HR Contacts and Resources.md
+
+MISC (1 files)
+--------------------------------------------------------------------------------
+ 1. A Blank Canvas: Space for Future Adventures.md
+ 2. Navigating the Moroccan Job Market: Key HR Contacts and Resources.md
+
+NETWORK SECURITY (4 files)
+--------------------------------------------------------------------------------
+ 1. Securing My n8n Workflows: A Deep Dive into DNS and TLS.md
+ 2. The Digital Guardian of My Homelab: Setting Up a Secure Reverse Proxy with HTTPS.md
+ 3. The SSL Certificate Saga: Local DNS, Nginx and My Homelab.md
+ 4. Troubleshooting pfSense Web Interface Access: A Troubleshooting Story.md
+
+REFERENCE (4 files)
+--------------------------------------------------------------------------------
+ 1. Navigating My Homelab: Essential URLs and Access Points.md
+ 2. Network Architecture Prompt: DNS, TLS and Reverse Proxies.md
+ 3. SSL Certificate Configuration Prompt: Securing Your Homelab.md
+ 4. Tracing My Homelab Journey: A Roadmap to Self-Hosted Services.md
+
+REMOTE ACCESS (2 files)
+--------------------------------------------------------------------------------
+ 1. The Twingate Connection Mystery: Untangling Authentication Failures.md
+ 2. Unlocking Remote Access: My Journey with Cloudflare Tunnel and Proxmox.md
